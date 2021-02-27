@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="songstyle.css"?>
+<songlist>
+  <song>
+    <title lang="en">Flava in Ya Ear</title>
+    <artist>Craig Mack</artist>
+    <genre>Hip Hop</genre>
+    <year>1994</year>
+  </song>
+  <song>
+    <title lang="en">Playas Gon' Play</title>
+    <artist>3LW</artist>
+    <genre>R &amp; B</genre>
+    <year>2000</year>
+  </song>
+  <song>
+    <title lang="en">September</title>
+    <artist>Earth, Wind, &amp; Fire</artist>
+    <genre>Disco</genre>
+    <year>1978</year>
+  </song>
+  <song>
+    <title lang="en">X Gon' Give It To Ya</title>
+    <artist>DMX</artist>
+    <genre>Hip Hop</genre>
+    <year>2007</year>
+  </song>
+  <song>
+    <title lang="en">Age Ain't Nothing but a Number</title>
+    <artist>Aaliyah</artist>
+    <genre>R &amp; B</genre>
+    <year>1994</year>
+  </song>
+  <song>
+    <title lang="en">Love Come Down</title>
+    <artist>Evelyn Champagne King</artist>
+    <genre>Disco</genre>
+    <year>1982</year>
+  </song>
+  <song>
+    <title lang="en">Juicy</title>
+    <artist>The Notorious B.I.G</artist>
+    <genre>Hip Hop</genre>
+    <year>1994</year>
+  </song>
+  <song>
+    <title lang="en">Any Time, Any Place</title>
+    <artist>Janet Jackson</artist>
+    <genre>R &amp; B</genre>
+    <year>1993</year>
+  </song>
+  <song>
+    <title lang="en">Good Times</title>
+    <artist>Chic</artist>
+    <genre>Disco</genre>
+    <year>1979</year>
+  </song>
+  <song>
+    <title lang="en">Brooklyn's Finest</title>
+    <artist>Jay-Z, The Notorious B.I.G</artist>
+    <genre>Hip Hop</genre>
+    <year>1996</year>
+  </song>
+
+</songlist>
